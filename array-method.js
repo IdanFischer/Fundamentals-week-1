@@ -19,8 +19,8 @@ console.log("array =>", cusine)
 // cusine.unshift('IT')
 // console.log('array-unshift =>', cusine)
 
-// cusine.shift()
-// console.log('array-shift =>', cusine)
+ cusine.shift()
+ console.log('array-shift =>', cusine)
 
-cusine[2] = 'Israeli'
-console.log("array-key 2 =>", cusine)
+// cusine[2] = 'Israeli'
+// console.log("array-key 2 =>", cusine)
